@@ -1,0 +1,10 @@
+.nav-panel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-left: 3em;
+}
+
+.nav-panel>* {
+    padding: 0.8em;
+}
